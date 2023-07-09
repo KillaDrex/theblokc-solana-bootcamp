@@ -1,0 +1,11 @@
+/mnt/c/Users/killa/Desktop/Solana Developers Bootcamp July 2023/hello_solana_program/target/debug/deps/serde_bytes-2f2cd86aa22474b8.rmeta: /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/lib.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytes.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/de.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/ser.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytebuf.rs
+
+/mnt/c/Users/killa/Desktop/Solana Developers Bootcamp July 2023/hello_solana_program/target/debug/deps/libserde_bytes-2f2cd86aa22474b8.rlib: /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/lib.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytes.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/de.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/ser.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytebuf.rs
+
+/mnt/c/Users/killa/Desktop/Solana Developers Bootcamp July 2023/hello_solana_program/target/debug/deps/serde_bytes-2f2cd86aa22474b8.d: /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/lib.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytes.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/de.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/ser.rs /home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytebuf.rs
+
+/home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/lib.rs:
+/home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytes.rs:
+/home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/de.rs:
+/home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/ser.rs:
+/home/killa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.11/src/bytebuf.rs:

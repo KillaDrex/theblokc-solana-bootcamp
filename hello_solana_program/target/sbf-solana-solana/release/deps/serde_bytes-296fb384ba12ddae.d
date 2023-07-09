@@ -1,0 +1,11 @@
+/mnt/c/Users/killa/Desktop/Solana Developers Bootcamp July 2023/hello_solana_program/target/sbf-solana-solana/release/deps/serde_bytes-296fb384ba12ddae.rmeta: /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/lib.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytes.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/de.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/ser.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytebuf.rs
+
+/mnt/c/Users/killa/Desktop/Solana Developers Bootcamp July 2023/hello_solana_program/target/sbf-solana-solana/release/deps/libserde_bytes-296fb384ba12ddae.rlib: /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/lib.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytes.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/de.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/ser.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytebuf.rs
+
+/mnt/c/Users/killa/Desktop/Solana Developers Bootcamp July 2023/hello_solana_program/target/sbf-solana-solana/release/deps/serde_bytes-296fb384ba12ddae.d: /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/lib.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytes.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/de.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/ser.rs /home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytebuf.rs
+
+/home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/lib.rs:
+/home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytes.rs:
+/home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/de.rs:
+/home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/ser.rs:
+/home/killa/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.11/src/bytebuf.rs:

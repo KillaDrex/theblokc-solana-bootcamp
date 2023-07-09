@@ -1,0 +1,1 @@
+C:\Users\killa\Desktop\Solana\ Developers\ Bootcamp\ July\ 2023\hello_solana_program\target\debug\hello_solana_program.dll: C:\Users\killa\Desktop\Solana\ Developers\ Bootcamp\ July\ 2023\hello_solana_program\src\lib.rs
